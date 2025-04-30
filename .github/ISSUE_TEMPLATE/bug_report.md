@@ -1,3 +1,11 @@
+---
+name: Bug Report
+about: Report a bug on the static website
+title: "[Bug]: "
+labels: bug
+assignees: ''
+---
+
 **Describe the bug**
 A clear and concise description of the issue you're experiencing on the static website.
 
