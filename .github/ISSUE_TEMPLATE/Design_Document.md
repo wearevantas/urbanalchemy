@@ -2,7 +2,7 @@
 name: Website Design Document
 about: Submit or request a design document for the website
 title: "[Design Document]: "
-labels: design
+labels: documentation
 assignees: 'DoctorSoup143'
 ---
 
