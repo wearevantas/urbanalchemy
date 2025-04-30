@@ -3,7 +3,7 @@ name: Bug Report
 about: Report a bug on the static website
 title: "[Bug]: "
 labels: bug
-assignees: ''
+assignees: 'DoctorSoup143'
 ---
 
 **Describe the bug**
